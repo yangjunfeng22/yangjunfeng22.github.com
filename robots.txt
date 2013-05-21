@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yangjunfeng22.github.io/sitemap.xml 
